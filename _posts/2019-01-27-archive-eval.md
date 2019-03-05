@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Evaluating the Princeton and Slavery Project"
+image:
+date:   2019-01-27 12:36
+categories:
+---
+
+Like many university DH projects the [Princeton and Slavery Project](https://slavery.princeton.edu/) was born out of a seminar. In 2013, Martha A. Sandweiss, professor of history, and archivist Dan Linke taught structured a class around the investigation of Princeton University’s ties with slavery. The project has grown to publish work from 40 authors ranging from undergraduates to postdoctoral fellows to professors. Between the excellent flow and easy navigation and the interesting content, I believe this project is a model archival DH project.
+
+Today I will be evaluating the Princeton Slavery Project in its strengths and weaknesses.
+
+The Princeton Slavery Project seeks to investigate and clarify the University’s connection to slavery with narrated stories, archival documents, and multimedia representations. All three sections work quite well together to create a dynamic description of the first century of the University. One example exposes the context in which Princeton has received donations in the past. Maeve Glass’ [“Moses Taylore Pyrne and the Sugar Plantations of the Americas”](https://slavery.princeton.edu/stories/moses-taylor-pyne) discusses how donations by Moses Taylor Pyne ‘1877 still impact the University today. Pyne made his money from sugar plantations which nearly always controlled hundreds of slaves. This is an excellent example of the scope of this project. It seeks to go beyond the description of slaves on the New Jersey campus and investigate the far reaching ways that slavery in the New World has affected and continues to affect the institution.
+
+Overall, this project is one of the best academic digital humanities projects that I have explored. It disseminated information in a way that is interesting and relevant for both general interest and scholarly activities. It integrates a wide variety of the Princeton community and asks important questions. One feature I particularly like is the “Did you know?” section at the bottom of each page. Here, the site presents a little fact and offers a link to learn more about that fact. One particularly helpful element includes recommended citation information. I find this feature to be very useful as it can be difficult to cite web projects with multiple authors. The multimedia section effectively uses other tools like maps and videos to demonstrate change through time and demographics. I particularly liked the [Student Origins Heat Map](https://slavery.princeton.edu/multimedia/visualizations/student-origins-heat-map) which gives demographics from 1748-1865. The map expands with the expanding borders of the United States.
+
+One downside of the project for me is its web design. The project has outsourced their web design and maintenance to Grafton Studios in Cambridge, MA. While Grafton has produced a fantastic website, as a DH student at an academic institution, I would have preferred Princeton to work in-house. Even so, they did consult the Princeton communications office. Perhaps this is where the use of Princeton orange as a dominant color comes from. Something about the bold use of school colors on the subject makes me a little uneasy. Nonetheless, I have been quite impressed by the Princeton Slavery Project and all that it has accomplished. It is a model archival project as it takes information found at Princeton and shares it with the world in an easily accessible way.
