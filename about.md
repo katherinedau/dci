@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+The content of these pages is protected by copyright. Any use beyond the personal use (publication, duplication, passing on to third parties, impression in media) is not permitted.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
