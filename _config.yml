@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DCI 393 "Creating Digital Scholarship"
-email: dauk19@mail.wlu.edu
+title: Katherine Dau
+email: katherine@txdau.com
 description: >- # this means to ignore newlines until "baseurl:"
   DCI 393 serves as the home base for my Digital Culture and Information capstone class, "Creating Digital Scholarship" Check out the site for updates on what we've been talking about and how my project, "The Atlantic Current" is coming.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dauk19.wludci.info" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://katherinedau.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:  katherinedau
 
 # Build settings
 markdown: kramdown
