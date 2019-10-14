@@ -16,10 +16,9 @@
 title: Katherine Dau
 email: katherine@txdau.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DCI 393 serves as the home base for my Digital Culture and Information capstone class, "Creating Digital Scholarship" Check out the site for updates on what we've been talking about and how my project, "The Atlantic Current" is coming.
+  Digital Art Historian. Recipient of the Fulbright Austria Combined Award 2019-2020. Resident of Vienna.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://katherinedau.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
 github_username:  katherinedau
 
 # Build settings
