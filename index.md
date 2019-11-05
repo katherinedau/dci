@@ -5,8 +5,6 @@
 layout: home
 image: st_sophia2.jpg
 ---
-## About Me
-
 
 ## Recent Posts
 ["Looking Back at Methodology"]()
