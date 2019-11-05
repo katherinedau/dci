@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% if page.image %}
+                <span class="image main"><img src="{{ root_url }}/assets/images/{{ page.image }}" alt="" /></span>
+                {% endif %}
 
   {%- include head.html -%}
 
@@ -13,10 +16,10 @@
       </div>
     </main>
 
-    {% if page.image %}
+<!--    {% if page.image %}
                   	<span class="image main"><img src="{{ root_url }}/assets/images/{{ page.image }}" alt="" /></span>
                     {% endif %}
-
+-->
     {%- include footer.html -%}
 
   </body>
