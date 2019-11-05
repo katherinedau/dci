@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+image: st_sophia2.jpg
 ---
 ## Stephansdom
 This year, I will be working on a model of St. Stephan's Cathedral in Vienna. Fulbright Austria has funded this forthcoming project. Stay tuned for updates.
