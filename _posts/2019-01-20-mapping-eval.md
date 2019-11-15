@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evaluating Locating London's Past"
-image:
+image: st_sophia2.jpg
 date:   2019-01-20 17:00
 categories:
 ---

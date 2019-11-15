@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evaluating the Princeton and Slavery Project"
-image:
+image: st_sophia2.jpg
 date:   2019-01-27 12:36
 categories:
 ---

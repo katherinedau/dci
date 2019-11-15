@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Looking Back at Methodology"
-image:
+image: st_sophia2.jpg
 date:   2019-04-10 17:00
 categories:
 ---

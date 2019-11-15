@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Input - Pagemaster"
-image:
+image: st_sophia2.jpg
 date:   2019-03-04 17:00
 categories:
 ---
